@@ -119,7 +119,7 @@ that the index is managed and in the `new` phase:
       "age": "15s",                                 <6>
       "phase": "new",
       "phase_time_millis": 1538475653317,           <7>
-      "action": "complete"
+      "action": "complete",
       "action_time_millis": 1538475653317,          <8>
       "step": "complete",
       "step_time_millis": 1538475653317             <9>
